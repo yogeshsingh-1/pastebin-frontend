@@ -1,6 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import CreatePaste from "./pages/CreatePaste";
-import ViewPaste from "./pages/ViewPaste";
 import PastePage from "./pastepage";
 
 const App =() =>{
