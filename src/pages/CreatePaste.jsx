@@ -63,7 +63,7 @@ export default function CreatePaste() {
 
       {result && (
         <p>
-          ✅ Paste created: <br />
+          Paste created: <br />
           <a href={result.url} target="_blank">
             {result.url}
           </a>
