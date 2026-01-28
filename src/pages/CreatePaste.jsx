@@ -32,7 +32,7 @@ export default function CreatePaste() {
 
   return (
     <div style={{ maxWidth: 600, margin: "40px auto" }}>
-      <h2>Create Paste</h2>
+      <h2>Create PasteBin</h2>
 
       <form onSubmit={handleSubmit}>
         <textarea
